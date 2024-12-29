@@ -1,0 +1,9 @@
+write in terminal : git push -u origin master
+our main branch is master
+and then just after making any commit ,keep on doing just 'git push'
+
+to commit:
+git status: tells untracked, modified files
+git add . : adds all modified files, takes them to staging area
+git commit -m "commit name" : commits files
+git push: pushes files to remote repo 
